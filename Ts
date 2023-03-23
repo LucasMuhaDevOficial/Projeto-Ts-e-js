@@ -1,0 +1,8 @@
+export function MinhaFuncao():void{
+    //codigo de função aqui
+}
+
+interface MinhaFuncao{
+    nome:string,
+    idade:number,
+}
